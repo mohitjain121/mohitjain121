@@ -76,8 +76,6 @@ I have delivered ecosystem data solutions to **20+ global startups**, including 
 * **🌉 Hybrid Data:** Decoding ABIs to map on-chain events to off-chain user identities.
 
 
-* **Ivy Education Trust:** Founder of a mentorship initiative guiding undergraduates on technical careers.
-
 ---
 
 ### ✍️ **Deep Dives & Research**
