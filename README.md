@@ -3,7 +3,7 @@
 
 ### 👨‍💻 **About Me**
 
-I am a **Product Manager** with 4.5 years of experience bridging the gap between Product Strategy and Engineering Execution. I specialize in scaling high-velocity exchanges and architecting data infrastructure for FinTech and Web3 products.
+I am a **Product Manager** with 5 years of experience bridging the gap between Product Strategy and Engineering Execution. I specialize in scaling high-velocity exchanges and architecting data infrastructure for FinTech and Web3 products.
 
 ### 📊 **The Number Slides (Impact at Scale)**
 
