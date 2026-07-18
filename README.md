@@ -78,6 +78,18 @@ I have delivered ecosystem data solutions to **20+ global startups**, including 
 
 ---
 
+### 📚 **Case Studies**
+
+Deep dives into product, growth, and incentive-design work I've led — reasoning, not just results.
+
+| Case Study | Summary | Key Results |
+| :--- | :--- | :--- |
+| **[Chakra Season 3 — Revenue-Weighted Incentive Design](https://github.com/mohitjain121/case-studies/tree/master/chakra)** | Reward-rate model and campaign mechanics for Kriya's final points season ahead of the $KDX token launch. | 70,000+ accounts · $30M → $117M AUM · 5× volume · ~$700K revenue |
+
+👉 **[Browse all case studies](https://github.com/mohitjain121/case-studies)**
+
+---
+
 ### ✍️ **Deep Dives & Research**
 
 I occasionally write breakdowns on Crypto Ecosystems, DeFi Mechanics, and Data Strategy.
