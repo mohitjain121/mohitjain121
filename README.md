@@ -4,7 +4,7 @@ Product Manager · 0→1 Builder · Data Strategist
 
 I've spent 5 years at the intersection of product strategy and engineering execution — scaling exchanges, designing token incentive systems, and building data infrastructure for FinTech and Web3 products. These days I'm going deeper into technical product management and AI engineering, shipping autonomous agents and backend workflows.
 
-📫 [work.mohitj@gmail.com](mailto:work.mohitj@gmail.com) · [X @jainXBT](https://x.com/jainXBT)
+📫 [work.mohitj@gmail.com](mailto:work.mohitj@gmail.com) · [X @jainXBT](https://x.com/jainXBT) · [LinkedIn](https://www.linkedin.com/in/mohit-jain-19b255129/)
 
 ---
 
@@ -84,4 +84,4 @@ Plus: advanced SQL, Dune Analytics, Google Analytics 4, Mixpanel, tokenomics & D
 Breakdowns on crypto ecosystems, DeFi mechanics, and data strategy.
 👉 **[Research Archive on Notion](https://www.notion.so/mohit-jain/Crypto-Research-229a4965f1d880b1a96bf35d25b2e096)**
 
-📫 Reach me: [work.mohitj@gmail.com](mailto:work.mohitj@gmail.com) · [X @jainXBT](https://x.com/jainXBT)
+📫 Reach me: [work.mohitj@gmail.com](mailto:work.mohitj@gmail.com) · [X @jainXBT](https://x.com/jainXBT) · [LinkedIn](https://www.linkedin.com/in/mohit-jain-19b255129/)
