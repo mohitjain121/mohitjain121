@@ -26,6 +26,7 @@ The reasoning behind the numbers, not just the results.
 | Case Study | Summary | Key Results |
 | :--- | :--- | :--- |
 | **[Chakra Season 3 — Revenue-Weighted Incentive Design](https://github.com/mohitjain121/case-studies/tree/master/chakra)** | Reward-rate model and campaign mechanics for Kriya's final points season ahead of the $KDX token launch. | 70,000+ accounts · $30M → $117M AUM · 5× volume · ~$700K revenue |
+| **[Council of LLMs — Multi-Agent Idea Validation with Anti-Hallucination Rails](https://github.com/mohitjain121/case-studies/tree/master/council-of-llms)** | An 8-stage pipeline that stress-tests "should I build this?" — six MECE specialist models, an adversarial red team on a stronger model, and mechanical code gates that constrain the verdict to what the evidence supports. Plus the failure that taught me why AI systems must fail loudly. | 6-role MECE council · 3 stacked anti-hallucination layers · adversarial red team · mechanical verdict gates |
 
 👉 **[Browse all case studies](https://github.com/mohitjain121/case-studies)**
 
