@@ -27,6 +27,7 @@ The reasoning behind the numbers, not just the results.
 | :--- | :--- | :--- |
 | **[Chakra Season 3 — Revenue-Weighted Incentive Design](https://github.com/mohitjain121/case-studies/tree/master/chakra)** | Reward-rate model and campaign mechanics for Kriya's final points season ahead of the $KDX token launch. | 70,000+ accounts · $30M → $117M AUM · 5× volume · ~$700K revenue |
 | **[Council of LLMs — Multi-Agent Idea Validation with Anti-Hallucination Rails](https://github.com/mohitjain121/case-studies/tree/master/council-of-llms)** | An 8-stage pipeline that stress-tests "should I build this?" — six MECE specialist models, an adversarial red team on a stronger model, and mechanical code gates that constrain the verdict to what the evidence supports. Plus the failure that taught me why AI systems must fail loudly. | 6-role MECE council · 3 stacked anti-hallucination layers · adversarial red team · mechanical verdict gates |
+| **[Consolidating a Fragmented Data Stack — ClickHouse Migration for a 500K-User ISP](https://github.com/mohitjain121/case-studies/tree/master/isp-data-infra)** | Migrated a multi-database (MySQL, Postgres, MongoDB, Redis), 40+ table, 50M+ row reporting process into a columnar store with five single-source-of-truth SQL models — replacing hours of manual, crash-prone Excel merging with near-instant queries. | 500K users · 4 DBs → 1 columnar store · 5 SQL models · hours → instant · 12+ analyst hrs/day saved |
 
 👉 **[Browse all case studies](https://github.com/mohitjain121/case-studies)**
 
