@@ -1,8 +1,8 @@
 # Hi, I'm Mohit 👋
 
-Product Manager · 0→1 Builder · Data Strategist
+**AI Product Manager · Founder-Operator · 0→1 Builder**
 
-I've spent 5 years at the intersection of product strategy and engineering execution — scaling exchanges, designing token incentive systems, and building data infrastructure for FinTech and Web3 products. These days I'm going deeper into technical product management and AI engineering, shipping autonomous agents and backend workflows.
+Engineer-turned-product-builder with 5 years shipping AI and data products 0→1 across fintech and consumer. I came into product through data, and I live in the product–engineering loop — writing research docs, wireframing flows, prototyping in Python, shipping FastAPI backends, and running model evals. I scaled Efficacy Labs' Kriya exchange from $30M to $117M in managed assets, and I run my own product & AI consultancy — most recently building AI-native education products at Quad AI.
 
 📫 [work.mohitj@gmail.com](mailto:work.mohitj@gmail.com) · [X @jainXBT](https://x.com/jainXBT) · [LinkedIn](https://www.linkedin.com/in/mohit-jain-19b255129/)
 
@@ -12,10 +12,22 @@ I've spent 5 years at the intersection of product strategy and engineering execu
 
 | Metric | Achievement | Context |
 | :--- | :--- | :--- |
-| **$117M+** | Peak AUM | Scaled Efficacy Labs/Kriya liquidity pools via incentive design & UX. |
-| **5×** | Volume growth | Transaction volume scale-up in <3 months ahead of a token listing. |
+| **$117M+** | Peak AUM | Scaled Efficacy Labs' Kriya from $30M → $117M (5× volume) via incentive design & UX. |
 | **20×** | User scale | Grew GIVA app DAUs from 2K → 40K via behavioral data loops. |
-| **500K** | Users served | Architected SQL infra for Canvas AI's enterprise analytics automation. |
+| **500K** | Users served | Architected a ClickHouse + 5-model SQL analytics stack for a 500K-user ISP. |
+| **$100K+** | Consulting revenue | 20+ clients · 40+ engagements across data, growth & incentive design. |
+| **~90%** | Research time cut | Built a multi-agent research system (~3–4 hrs → <30 min per report). |
+
+---
+
+### 🤖 AI Builds
+
+Hands-on AI product work — I prototype and ship these myself.
+
+- **[Prompt Arena](https://prompt.quadcse.com/)** — a two-model AI pipeline: a generation model scored by a separate rubric-based evaluator, with scheduled daily challenges and on-demand batch regeneration to avoid redundant generation cost at scale.
+- **[Venture Researcher / PersonalOS](https://github.com/mohitjain121/PersonalOS)** — a multi-agent, persistent research system on the Hermes (Nous Research) framework with evidence-grounding gates, deterministic rules, and a red-team layer that catches model-generated inaccuracies. ~90% research-time cut.
+- **[research-agent](https://github.com/mohitjain121/research-agent)** — an autonomous LangGraph agent that discovers, evaluates, and curates technical articles with human-in-the-loop review over Telegram. Python · Supabase · LangGraph.
+- **Quad AI ([quadcse.com](https://www.quadcse.com/))** — sole product operator for an AI-first education venture: Next.js rebuild, admissions, payments, LMS, and a data-driven [College Predictor](https://jeepredictor.quadcse.com/). 500+ monthly inbound leads.
 
 ---
 
@@ -35,39 +47,64 @@ The reasoning behind the numbers, not just the results.
 
 ---
 
-### 💼 Consulting — Blockchain Data & Incentive Design
+### Career Highlights
+
+**Scale Labs — Founder, Product & AI Consultancy** · *Apr '23 – Feb '24 · Sep '25 – Present*
+Independent product/AI consultancy — 20+ clients, 40+ engagements, $100K+ revenue. Current focus is AI-native product builds; earlier engagements span data infrastructure, growth, and on-chain analytics. Flagship work:
+
+- **[Quad AI](https://www.quadcse.com/)** — sole product operator for an AI-first education venture ([Prompt Arena](https://prompt.quadcse.com/), [College Predictor](https://jeepredictor.quadcse.com/), LMS/admissions/payments; 500+ monthly leads).
+- **[ISP data infrastructure](https://github.com/mohitjain121/case-studies/tree/master/isp-data-infra)** — ClickHouse migration + 5 SQL models for a 500K-user ISP (12+ analyst hrs/day saved).
+- **[Habuild](https://github.com/mohitjain121/case-studies/tree/master/habuild)** — paid-ad → first-class funnel rebuild (+20% WoW signups).
+- **[Persistence (pStake)](https://github.com/mohitjain121/case-studies/tree/master/persistence-pstake)** — competitive benchmarking + tri-asset pool risk monitor for a liquid staking protocol.
+- **[Big Brain VC](https://mohit-jain.notion.site/Satis-DEX-and-derivatives-market-f06d9caafb7d415dbd201f2ae1630faf)** — on-chain investment due diligence (volumes, fund flows, GitHub/OSINT verification).
+
+*Full on-chain analytics catalog below ↓*
+
+**Efficacy Labs (Web3 venture studio on Sui — Kriya)** · *Product Lead · Feb '24 – Sep '25*
+One of three people running a token launch across five parallel workstreams. Designed the gamified incentive economics that drove 70,000+ accounts, scaled Kriya $30M → $117M AUM and 5× volume ([full case study](https://github.com/mohitjain121/case-studies/tree/master/chakra)), and built an LLM research agent that cut team research 8 hrs → 15 min. Ran BD and integrations with 30+ institutional partners (Gate, Bybit).
+
+**LogX (Sequoia-backed, formerly Flint)** · *Senior Product Analyst · Feb '22 – Apr '23*
+Built the analytics function from zero — schema, 30+ dashboards, 500+ SQL queries. Authored 8+ research reports that drove two product pivots, including the shift to a perpetuals DEX.
+
+**GIVA (Premji Invest-backed omnichannel jewellery)** · *Product Analyst · Jul '21 – Feb '22*
+First product hire. Scaled the app 20× (2K → 40K DAUs) and 8× paying customers (₹1Cr+ / $120K+ monthly), cutting homepage-to-product drop-off 80% through systematic A/B testing.
+
+---
+
+### 💼 On-Chain Data & Incentive Design
 
 *Startups fail because they don't know who their users are. I fix that.*
 
-I've delivered ecosystem data solutions to **20+** global startups, including PolygonDAO, Yearn, Galxe, and Forta Network.
+One of India's earliest Dune adopters — 6-figure revenue architecting on-chain data solutions across **20+ protocols, DAOs, and funds**, plus **8+ ecosystem bounties**. Much of the SQL is public:
 
-* 🕵️ **On-chain forensics** — distinguishing whales from Sybil bots to optimize incentive spend.
-* 📊 **DEX analytics** — modeling liquidity depth, impermanent loss, and capital efficiency.
-* 📈 **Retention loops** — cohort analysis to spot exactly where users drop off in your dApp flow.
+📂 **[web3-data-engineering-portfolio →](https://github.com/mohitjain121/web3-data-engineering-portfolio)** — dashboards, models, and queries, organized by domain.
+
+**Selected protocol work** (each links to the live SQL):
+
+- **Liquid staking & DeFi** — [pStake](https://github.com/mohitjain121/web3-data-engineering-portfolio/tree/main/05_DeFi/pStake%20Finance) · [Stader](https://github.com/mohitjain121/web3-data-engineering-portfolio/tree/main/05_DeFi/Stader%20Labs) · [Yearn](https://github.com/mohitjain121/web3-data-engineering-portfolio/tree/main/05_DeFi/Yearn) · [AAVE](https://github.com/mohitjain121/web3-data-engineering-portfolio/tree/main/05_DeFi/AAVE) · [APWine](https://github.com/mohitjain121/web3-data-engineering-portfolio/tree/main/05_DeFi/APWine%20Finance) · [Raydium](https://github.com/mohitjain121/web3-data-engineering-portfolio/tree/main/05_DeFi/Raydium) · [Serum](https://github.com/mohitjain121/web3-data-engineering-portfolio/tree/main/05_DeFi/Serum%20Protocol) · [Ribbon](https://github.com/mohitjain121/web3-data-engineering-portfolio/tree/main/05_DeFi/Ribbon%20Finance) · [Thales](https://github.com/mohitjain121/web3-data-engineering-portfolio/tree/main/05_DeFi/Thales) · [SNX](https://github.com/mohitjain121/web3-data-engineering-portfolio/tree/main/05_DeFi/SNX%20Token%20Holders) · [Pillow](https://github.com/mohitjain121/web3-data-engineering-portfolio/tree/main/05_DeFi/Pillow)
+- **Credential & campaign networks** — [Galxe](https://github.com/mohitjain121/web3-data-engineering-portfolio/tree/main/01_Credential_Networks/Galxe)
+- **Security & monitoring** — [Forta Network](https://github.com/mohitjain121/web3-data-engineering-portfolio/tree/main/02_Security/Forta%20Network)
+- **Bridges & wallets** — [Bungee](https://github.com/mohitjain121/web3-data-engineering-portfolio/tree/main/03_Bridges/Bungee%20Exchange) · [Zerion](https://github.com/mohitjain121/web3-data-engineering-portfolio/tree/main/04_Wallets/Zerion)
+- **Chains & ecosystems** — [Arbitrum · BSC · Optimism · Solana](https://github.com/mohitjain121/web3-data-engineering-portfolio/tree/main/06_Chains)
+- **Treasuries & governance** — [CULT DAO](https://github.com/mohitjain121/web3-data-engineering-portfolio/tree/main/09_Treasury/CULT%20DAO) · [Yam Finance](https://github.com/mohitjain121/web3-data-engineering-portfolio/tree/main/09_Treasury/Yam%20Finance)
+- **NFTs** — [NFT market analysis](https://github.com/mohitjain121/web3-data-engineering-portfolio/tree/main/08_Non_Fungible_Tokens/NFT%20Market%20Analysis)
+
+**What the work looks like:**
+
+* 🕵️ **On-chain forensics** — clustering wallets to separate real users from Sybils and optimize incentive spend.
+* 📊 **DEX & liquidity analytics** — liquidity depth, LP efficiency, tri-asset pool risk, competitive benchmarking.
+* 🏦 **Treasury & governance** — dashboards tracking holdings, proposal outcomes, and portfolio ROI.
 * 🌉 **Hybrid data** — decoding ABIs to map on-chain events to off-chain user identities.
 
-Open to fractional data and incentive-design work → [email me](mailto:work.mohitj@gmail.com).
+Open to fractional data & incentive-design work → [email me](mailto:work.mohitj@gmail.com).
 
 ---
 
-### Career Highlights
+### 🔭 Now
 
-**Efficacy Labs (Web3 product studio on Sui — Kriya, Xebra)** · *Product & Partnerships Lead*
-Designed and ran the token-launch campaign behind the numbers above — reward-rate modeling, campaign mechanics, and the UX that explained them ([full case study](https://github.com/mohitjain121/case-studies/tree/master/chakra)). Secured liquidity and integrations with **30+** protocols and CEXs (Gate, Bybit).
-
-**Canvas AI (NL automation for enterprise data analytics)** · *Associate Product Manager*
-Architected **5+** production SQL models (**1K+** lines each) connecting 50+ metrics for a **500K**-user base.
-
-**LogX, formerly Flint (derivatives aggregator → financial superapp)** · *Senior Product Analyst*
-Built the analytics stack from scratch (**500+** SQL queries, 30+ dashboards). Authored 8+ ecosystem deep-dives that drove two critical product pivots toward a perpetual DEX.
-
----
-
-### 🔭 Currently Building
-
-- **[research-agent](https://github.com/mohitjain121/research-agent)** — an autonomous LangGraph agent that discovers, evaluates, and curates technical articles, with human-in-the-loop review over Telegram. Python · Supabase · LangGraph.
-- **[PersonalOS](https://github.com/mohitjain121/PersonalOS)** — a personal applications layer on top of an always-on AI agent (Telegram-first).
-- ⚡ **Fun fact:** International FIDE chess rating of **1440**. Hit me up for a match if you're around Bangalore.
+- Building AI-native products through **Scale Labs / Quad AI**, and exploring full-time **AI PM** roles.
+- Deep in the AI tooling loop — Claude Code, Cursor, LangGraph, evals — shipping autonomous agents.
+- ⚡ **Fun fact:** FIDE chess rating **1658**, 6+ tournament accolades. Up for a match if you're around Bangalore.
 
 ---
 
@@ -75,11 +112,12 @@ Built the analytics stack from scratch (**500+** SQL queries, 30+ dashboards). A
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,figma,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,supabase,vercel,git&theme=dark" />
   </a>
 </p>
 
-Plus: advanced SQL, Dune Analytics, Google Analytics 4, Mixpanel, tokenomics & DeFi mechanism design, LangChain/LangGraph agents.
+Python · FastAPI · SQL · LangChain/LangGraph · MCP · RAG · Evals · Supabase · Vercel · Dune Analytics · GA4 · Mixpanel · Claude Code
+Plus: tokenomics & DeFi mechanism design, on-chain analytics, schema design, A/B testing.
 
 ---
 
