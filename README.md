@@ -52,6 +52,7 @@ The reasoning behind the numbers, not just the results.
 Product teardowns, opinions, and narratives on fintech, AI, and building.
 
 - **[What I Think of INDmoney](https://github.com/mohitjain121/case-studies/tree/master/teardowns/indmoney)** — a teardown on why "access" isn't the moat, and how I'd rebuild it into the default platform for cross-border investing from India, instead of another superapp.
+- **[How I Advised Big Brain VC to Pass on Satis](https://github.com/mohitjain121/case-studies/tree/master/teardowns/big-brain-satis)** — a 2022 investment due-diligence on a cross-chain derivatives DEX: why a real post-FTX market still wasn't a reason to back this team. Product teardown, competitor scorecard, and a falsifiable "pass."
 
 ---
 
