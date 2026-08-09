@@ -47,6 +47,14 @@ The reasoning behind the numbers, not just the results.
 
 ---
 
+### 🧠 How I Think
+
+Product teardowns, opinions, and narratives on fintech, AI, and building.
+
+- **[What I Think of INDmoney](https://github.com/mohitjain121/case-studies/tree/master/teardowns/indmoney)** — a teardown on why "access" isn't the moat, and how I'd rebuild it into the default platform for cross-border investing from India, instead of another superapp.
+
+---
+
 ### Career Highlights
 
 **Scale Labs — Founder, Product & AI Consultancy** · *Apr '23 – Feb '24 · Sep '25 – Present*
